@@ -1,4 +1,5 @@
 # SEE060: Utgående långvågig strålning
+
 Det här är repot innehåller kursmaterial tillhörande inlämningsuppgiften om utgående långvågig strålning i kursen SEE060 Jorden som system på [Chalmers Tekniska Högskola](https://www.chalmers.se/).
 
 Är du här som student kan du antingen öppna repot på MyBinder:
@@ -15,5 +16,5 @@ Du behöver ha följande python-paket installerade för att kunna följa med i i
 
 
 ## Rapportera fel
-Hittar du något du tycker verkar tokigt kan du alltid öppna ett "issue" här på Github.
 
+Hittar du något du tycker verkar tokigt kan du alltid öppna ett "issue" här på Github.
