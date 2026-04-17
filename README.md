@@ -7,7 +7,7 @@ Det här är repot innehåller kursmaterial tillhörande inlämningsuppgiften om
 Packa upp zipfilen på ett lämpligt ställe på din dator.
 
 Du behöver ha följande python-paket installerade för att kunna följa med i instruktionerna:
-- NumPy
+- numpy
 - matplotlib
 - juypterlab
 - jupyterlab-tour
